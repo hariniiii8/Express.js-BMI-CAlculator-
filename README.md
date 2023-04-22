@@ -1,1 +1,1 @@
-# Express.js-BMI-CAlculator-
+# Express.js-BMI-Calculator-
