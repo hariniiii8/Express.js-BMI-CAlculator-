@@ -2,5 +2,5 @@ FROM node:slim
 WORKDIR /app
 COPY . /app
 RUN npm install
-EXPOSE 4000
+EXPOSE 3000
 CMD node app.js
