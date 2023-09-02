@@ -2,8 +2,9 @@
   "name": "calculator",
   "version": "1.0.0",
   "description": "Calculator project made using Express",
-  "main": "calculator.js",
+  "main": "calculator.js", // Replace with your main application file
   "scripts": {
+    "start": "node calculator.js", // Define your start script here
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
