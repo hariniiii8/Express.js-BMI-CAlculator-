@@ -2,15 +2,14 @@
   "name": "calculator",
   "version": "1.0.0",
   "description": "Calculator project made using Express",
-  "main": "calculator.js", // Replace with your main application file
+  "main": "calculator.js",
   "scripts": {
-    "start": "node calculator.js", // Define your start script here
+    "start": "node calculator.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/hariniiii8/Express.js-BMI-CAlculator-"
-"
   },
   "author": "harini",
   "license": "ISC",
